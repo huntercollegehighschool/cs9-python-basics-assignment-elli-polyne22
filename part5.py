@@ -13,3 +13,7 @@ Hello, Ash Ketchum
 '''
 
 #start writing your code below
+firstname = int(input(" What is your first name?"))
+last name +omt(input("What is your last name?"))
+print("Hello")
+print first name, lastname
